@@ -2,7 +2,7 @@
 
 # Location-Based Advertising Service - Project Overview
 
-![Location-Based Advertising](https://example.com/image.png)
+![Location-Based Advertising](images/LocalFeed_info.png)
 
 ## Introduction
 
@@ -28,6 +28,8 @@ Location-based advertising has become a powerful marketing strategy with proven 
 
 ## Project Structure
 
+![Location-Based Advertising](images/gantt chart_001.png)
+
 The project is divided into several sections:
 
 1. **Introduction**: Provides an overview of the project, its objectives, and the implementation of the location-based advertising service.
@@ -39,6 +41,10 @@ The project is divided into several sections:
 4. **Comparison with Traditional Methods**: Compares the effectiveness of location-based advertising with traditional advertising methods, emphasizing the benefits of targeted and timely offers.
 
 5. **Results**: Presents the results achieved through the implementation of the location-based advertising service, including increased foot traffic, engagement rates, and sales.
+
+## Screenshots
+
+![Screenshots](images/ss_localfeed.png)
 
 ## Results Achieved
 
