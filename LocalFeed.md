@@ -42,9 +42,12 @@ The project is divided into several sections:
 
 5. **Results**: Presents the results achieved through the implementation of the location-based advertising service, including increased foot traffic, engagement rates, and sales.
 
+![Screenshots](images/localfeed_seq.jpg)
+
 ## Screenshots
 
 ![Screenshots](images/ss_localfeed.png)
+
 
 ## Results Achieved
 
