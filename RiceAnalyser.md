@@ -8,6 +8,8 @@ This project aims to automate the process of analyzing rice quality by measuring
 
 In the traditional approach, the process of analyzing rice quality was carried out manually by a lab expert. The expert would take a sample of rice grains and measure the length of each grain using a Vernier caliper. After measuring the length of each grain, they would then calculate the average length of the rice sample. However, this method was time-consuming and prone to human errors, leading to an accuracy of approximately 95%.
 
+images/Manual Testing Rice.webp
+
 ## New Approach
 
 To overcome the limitations of the traditional approach and improve the accuracy, a new Django-based Image processing tool was developed using OpenCV, numpy, and matplotlib in Python. The new approach follows these steps:
