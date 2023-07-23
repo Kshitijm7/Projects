@@ -28,7 +28,7 @@ Location-based advertising has become a powerful marketing strategy with proven 
 
 ## Project Structure
 
-![Location-Based Advertising](images/gantt chart_001.png)
+![Location-Based Advertising](images/gantt_chart_001.png)
 
 The project is divided into several sections:
 
