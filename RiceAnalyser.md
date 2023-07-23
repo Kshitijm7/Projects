@@ -27,7 +27,7 @@ To overcome the limitations of the traditional approach and improve the accuracy
 
 ![SAMPLE DETAILS](images/ss_Parent_image.jpg)
 ![GRAIN LIST](images/ss_child_image_list.jpg)
-![GRAIN DETAILS](images/ss_Parent_image.jpg)
+![GRAIN DETAILS](images/ss_child_image.jpg)
 
 
 
