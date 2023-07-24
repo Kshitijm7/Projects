@@ -1,12 +1,9 @@
-**README.md**
 
 # Location-Based Advertising Service - Project Overview
 
 <p float="left">
   <img src="images/LocalFeed_info.png" width="49%" />
-  <div width="49%">
-    <em>The Location-Based Advertising Service is a project that aims to improve the sales and marketing strategies of businesses by leveraging location-based notifications to attract potential customers. The implementation of this service involves the use of a notification server and a location gatherer, working in sync, to push relevant notifications to users' devices whenever they pass by a listed shop. By presenting users with timely and location-specific offers, this approach intends to increase customer engagement and boost sales compared to traditional methods where promotional information is received when users are least interested.</em>
-  </div>
+<em>The Location-Based Advertising Service is a project that aims to improve the sales and marketing strategies of businesses by leveraging location-based notifications to attract potential customers. The implementation of this service involves the use of a notification server and a location gatherer, working in sync, to push relevant notifications to users' devices whenever they pass by a listed shop. By presenting users with timely and location-specific offers, this approach intends to increase customer engagement and boost sales compared to traditional methods where promotional information is received when users are least interested.</em>
 </p>
 
 
