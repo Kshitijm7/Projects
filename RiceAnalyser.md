@@ -25,8 +25,13 @@ To overcome the limitations of the traditional approach and improve the accuracy
 
 5. Results Visualization: The final step involves visualizing the results, including the average length of the rice sample, and displaying the processed image with annotated grain lengths.
 
+
+![SAMPLE DETAILS](images/ss_Parent_image_list.jpg)
+
 ![SAMPLE DETAILS](images/ss_Parent_image.jpg)
+
 ![GRAIN LIST](images/ss_child_image_list.jpg)
+
 ![GRAIN DETAILS](images/ss_child_image.jpg)
 
 
