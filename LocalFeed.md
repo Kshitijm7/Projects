@@ -51,5 +51,5 @@ The project is divided into several sections:
 
 ## Results Achieved
 
-the Location-Based Advertising Service has demonstrated promising results. It has significantly increased customer engagement and foot traffic to the listed shops compared to traditional advertising methods. The personalized and timely notifications have proven to be more effective in attracting potential customers and converting them into paying customers.
+the Location-Based Advertising Service has demonstrated promising results. It has significantly increased user engagement when recieved a notification. The personalized and timely notifications have proven to be more effective in attracting potential customers and converting them into paying customers.
 
