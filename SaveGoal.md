@@ -50,7 +50,8 @@ To facilitate automated savings, we have developed an intuitive user interface t
 Overall, the "Automated Savings" module is designed to provide users with an efficient and personalized way to achieve their financial objectives by automating the savings process and offering them flexibility in defining their goals and rules. The incorporation of a local SQLite database ensures that user data is securely stored and can be accessed on their Android devices.
 
 
-##Conclusion
+
+## Conclusion  
 The Automated Savings feature is a powerful and distinctive aspect of Capitally, providing users with the tools to make saving money seamless and efficient. With the ability to set up customized rules for multiple goals, users can confidently work towards their financial aspirations without the burden of manual savings management.
 
 By incorporating Automated Savings into their financial journey, Capitally users are empowered to take charge of their finances and build a stronger foundation for a financially secure future.
